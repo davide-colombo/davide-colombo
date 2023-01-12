@@ -27,7 +27,7 @@ They were three years of hard times, long hours of lessons followed by hours of 
 
 I think that if I successfully achieved the Bachelor degree in 2019 fully on time, it is mainly due to the strong discipline and resilience I developed through sports. Of course there were other factors such as the full support of my family.
 
-Aside University, on saturday night I worked as a waiter, not for economic purposes because I'm lucky to have a family that fully supports me and believes in me during my studies.
+Aside University, on saturday night I worked as a waiter, not for economic purposes because I'm lucky to have (as stated above) a family that fully supports me and believes.
 
 The reason I decide to start working was to be a little more independent and collect experience and for sure I did.
 
