@@ -2,6 +2,10 @@ My name is Davide and I'm writing a journey about life called "Hidden in plain s
 
 Who am I?
 
+I can describe my journey as two parts: the first part was centered around my body, the second and actual part is centered around my mind.
+
+## First part of the Journey: the body
+
 Since I was able to move my feet on the ground I fell in love with sports.
 
 My journey starts as a little kid at the age of 5 playing soccer at the team in my little town.
@@ -29,4 +33,8 @@ I had the chance over the years to learn more about my body and find the perfect
 But most importantly, those years were the key to test my mind under huge amount of stress and pressure.
 
 Unsurprisingly I learned how to cope with stressful situations.
+
+## Second part of the Journey: the mind
+
+
 
