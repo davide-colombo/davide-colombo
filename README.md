@@ -44,5 +44,21 @@ Unsurprisingly I learned how to cope with stressful situations.
 
 ## Second part: the mind
 
+The COVID-19 pandemic pushes me to completely shift the way I was living my day.
 
+I started in late 2019 my master degree in Bioengineering in presence to finish the remaining two years from home.
+
+If on one side there was the disadvantage of having less human relationships, those years serves me to make a crucial discovery: time.
+
+I started to wake up at 6 AM to study extra material.
+
+As long as I finished the lessons I was used to study and dedicate the remaining time to learn more.
+
+I started by searching on YouTube material about the courses to better understand the subjects and that quickly escalate to a huge expansions of subjects: from psychology, to self-growth, marketing, neuro-biology, anatomy, foods and nutrients, workouts, habits, human skills, economy, politics, philosophy, ecology, supply chain.
+
+I wanted to learn how the World works and I think that in the last 4 years I covered an extensive knowledge about that.
+
+Don't get me wrong: I don't want to have the arrogance to say that I understand everything. 
+
+What I can say for certain is that I know more than the average person and I will not stop and never intended to.
 
