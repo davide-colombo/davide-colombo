@@ -12,7 +12,11 @@ Along the years I realized to be a very competitive person and I developed a str
 
 In 2016 I started my journey as a Bioengineer.
 
-They were three years of hard study, discipline, consistency, resilience to achieve in 2019 the Bachelor degree.
+They were three years of hard times, long hours of lessons followed by hours of study.
 
-Aside University, on Saturday night I worked as a waiter, not for economic purposes because I'm lucky to have a family that fully supports me and believes in me during my studies. The reason I decide to start working was to be a little more independent and collect experience and for sure I did.
+I think that if I successfully achieved the Bachelor degree in 2019 fully on time, it mainly due to the strong discipline and resilience I developed through sports.
+
+Aside University, on saturday night I worked as a waiter, not for economic purposes because I'm lucky to have a family that fully supports me and believes in me during my studies.
+
+The reason I decide to start working was to be a little more independent and collect experience and for sure I did.
 
