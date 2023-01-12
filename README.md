@@ -56,7 +56,11 @@ As long as I finished the lessons I was used to study and dedicate the remaining
 
 I started by searching on YouTube material about the courses to better understand the subjects and that quickly escalate to a huge expansions from psychology, to self-growth, marketing, neuro-biology, anatomy, foods and nutrients, workouts, habits, human skills, economy, politics, philosophy, ecology, supply chain, design, entrepreneurship.
 
-I wanted to learn how the World works and I think that in the last 4 years I covered an extensive knowledge about that.
+I wanted to learn as much as I can about the World because I think that _knowledge is power_ and you are not _truly free_ without having such knowledge.
+
+Because ultimately being free is the ability to make solid decision by yourself, isn't it? And knowledge is a prerequisite for that.
+
+And I think that in the last 4 years I covered an extensive knowledge about that.
 
 **Don't get me wrong**: I don't want to have the arrogance to say that I understand everything. 
 
