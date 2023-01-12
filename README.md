@@ -1,10 +1,17 @@
-My name is Davide and I'm writing a journey about life called "Hidden in plain sight" (here).
+My name is **Davide** and I'm writing a _journey about life_ called ["Hidden in plain sight"](https://github.com/davide-colombo/Hidden-in-Plain-Sight).
 
-Who am I?
+During the last 25 years I learned a lot about myself and others, and I think I have something to offer to significantly help other people along their journey.
 
-I can describe my journey as two parts: the first part was centered around my body, the second and actual part is centered around my mind.
 
-## First part of the Journey: the body
+## About my Journey
+
+I can describe my journey as two parts:
+
+- The first part was mainly centered about getting to know my body;
+- The second and actual part is centered around getting to know my mind.
+
+
+## First part: the body
 
 Since I was able to move my feet on the ground I fell in love with sports.
 
@@ -34,7 +41,8 @@ But most importantly, those years were the key to test my mind under huge amount
 
 Unsurprisingly I learned how to cope with stressful situations.
 
-## Second part of the Journey: the mind
+
+## Second part: the mind
 
 
 
