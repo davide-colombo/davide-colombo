@@ -21,3 +21,12 @@ Aside University, on saturday night I worked as a waiter, not for economic purpo
 The reason I decide to start working was to be a little more independent and collect experience and for sure I did.
 
 Along with studies and evening work, I started hitting to the gym four, five, six times a week consistently until early 2020 when the COVID-19 pandemic spread.
+
+I learned more about biology, about foods and nutrients, how to combine them, how to cook them, and especially about how my body react to them.
+
+I had the chance over the years to learn more about my body and find the perfect routine for me.
+
+But most importantly, those years were the key to test my mind under huge amount of stress and pressure.
+
+Unsurprisingly I learned how to cope with stressful situations.
+
