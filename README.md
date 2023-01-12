@@ -66,7 +66,7 @@ And I think that in the last 4 years I covered an extensive knowledge about that
 
 What I can say with a reasonable degree of certain is that I know more than the average person and I will not stop and never intended to.
 
-I successfully concluded my master degree in early 2022, while I was already working at ["Switch Academy"](https://switchacademy.com/), a startup in my opinion brilliantly conducted by my friend Vincenzo Di Pietro, who asked me to join him along his journey.
+I successfully concluded my master degree in early 2022, while I was already working at ["Switch Academy"](https://switchacademy.com/), a startup in my humble opinion brilliantly conducted by my friend Vincenzo Di Pietro, who asked me to join him along his journey.
 
 I learned a lot during that experience, especially I learned more about the working environment, clear communication, commitment, and ownership.
 
