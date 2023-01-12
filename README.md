@@ -14,6 +14,5 @@ In 2016 I started my journey as a Bioengineer.
 
 They were three years of hard study, discipline, consistency, resilience to achieve in 2019 the Bachelor degree.
 
-Aside University, on Saturday night I worked as a waiter, not for economic purposes because I'm lucky to have a family that fully supports me and believes in me during my studies. The reason I decide to start working was to be a little bit more independent and collect experience.
-
+Aside University, on Saturday night I worked as a waiter, not for economic purposes because I'm lucky to have a family that fully supports me and believes in me during my studies. The reason I decide to start working was to be a little more independent and collect experience and for sure I did.
 
