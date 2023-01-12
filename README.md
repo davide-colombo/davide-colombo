@@ -78,6 +78,5 @@ After the experience at Switch Academy I decided to prepare to become a Software
 
 I know that I was not ready so I started to practice and learn more, especially about the low-level details of a computer system. That was enlighting.
 
-I started looking at the Assembly code, write C program, learn how the compiler works, and I rapidly ended up having a huge gallery of high-quality material and an extensive codebase in my ["C programming"](https://github.com/davide-colombo/cprogramming) repository.
-
+I started looking at the Assembly code, write C programs, learn how the compiler works, and I rapidly ended up having a huge gallery of high-quality material on my phone's notes (I intend to share it!) and an extensive codebase in my ["C programming"](https://github.com/davide-colombo/cprogramming) repository.
 
