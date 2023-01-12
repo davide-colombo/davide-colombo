@@ -7,8 +7,8 @@ During the last 25 years I learned a lot about myself and others, and I think I 
 
 I can describe my journey as two parts:
 
-- The first part is centered about getting to know my body, which for sure paves the way for the next part;
-- The second and actual part is centered around getting to know my mind.
+- The first is centered about getting to know my body;
+- The second and actual is centered around getting to know my mind.
 
 
 ## First part: the body
