@@ -70,6 +70,6 @@ I successfully concluded my master degree in early 2022, while I was already wor
 
 I learned a lot during that experience, especially I learned more about the working environment, clear communication, commitment, and ownership.
 
-It was a pleasure time and I'm thankful for having that opportunity.
+It was a pleasure time and I'm thankful for having had that opportunity.
 
 
