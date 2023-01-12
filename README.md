@@ -80,3 +80,9 @@ I know that I was not ready so I started to practice and learn more, especially 
 
 I started looking at the Assembly code, write C programs, learn how the compiler works, and I rapidly ended up having a huge gallery of high-quality material on my phone's notes (I intend to share it!) and an extensive codebase in my ["C programming"](https://github.com/davide-colombo/cprogramming) repository.
 
+With the beginning of the new year (2023) I start to consolidate and write down what I learned about life through my journey, thinking deeply about the World, humanity and what I can do for others.
+
+Because, in all honesty, the side effect of having done a deep dive into my self for roughly 20 years was the prioritization of my needs against others.
+
+It's time to share with other people my experience, what I learned about the World, and hopefully help them and humanity thrive.
+
