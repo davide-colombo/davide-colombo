@@ -25,7 +25,7 @@ In 2016 I started my journey as a Bioengineer.
 
 They were three years of hard times, long hours of lessons followed by hours of study.
 
-I think that if I successfully achieved the Bachelor degree in 2019 fully on time, it mainly due to the strong discipline and resilience I developed through sports.
+I think that if I successfully achieved the Bachelor degree in 2019 fully on time, it is mainly due to the strong discipline and resilience I developed through sports. Of course there were other factors such as the full support of my family.
 
 Aside University, on saturday night I worked as a waiter, not for economic purposes because I'm lucky to have a family that fully supports me and believes in me during my studies.
 
