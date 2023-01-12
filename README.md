@@ -70,6 +70,14 @@ I successfully concluded my master degree in early 2022, while I was already wor
 
 I learned a lot during that experience, especially I learned more about clear communication, commitment, ownership, taking smart decision, prioritize time, organize work.
 
-It was a pleasure time and I'm thankful for having had that opportunity.
+It was a pleasure time and I'm thankful for having had that opportunity, especially because it open my mind about what I want to do in my life.
+
+During my years at University I discover a strong passion and an innate affinity to programming.
+
+After the experience at Switch Academy I decided to prepare to become a Software Engineer.
+
+I know that I was not ready so I started to practice and learn more, especially about the low-level details of a computer system. That was enlighting.
+
+I started looking at the Assembly code, write C program, learn how the compiler works, and I rapidly ended up having a huge gallery of high-quality material and an extensive codebase in my ["C programming"](https://github.com/davide-colombo/cprogramming) repository.
 
 
