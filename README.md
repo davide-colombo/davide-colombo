@@ -9,10 +9,11 @@ It's called ["Hidden in plain sight"](https://github.com/davide-colombo/Hidden-i
 
 ## About my Journey
 
-I can describe my journey as two parts:
+I can describe my journey as two parts.
 
-- The first is centered about getting to know my body;
-- The second and actual is centered around getting to know my mind.
+The first centered on sports. I learned a lot about food, improving performance, sleep, recovery, discipline, but most importantly I learned the limits and reactions of my body.
+
+The second centered on the "mind". I learned to control my emotions, to resonate with other people, to listen to them. I become more aware of myself, my thoughts, my sensations. I learned to point the finger to myself instead of pointing it to others. I discover the forgotten doctrine of "deep thinking".
 
 
 ## First part: the body
