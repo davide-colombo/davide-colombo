@@ -21,7 +21,7 @@ Since I was able to move my feet on the ground I fell in love with sports.
 
 My journey starts as a little kid at the age of 5 playing soccer at the team in my little town.
 
-In 20 years I had the chance to try many different sports from swimming, to basketball, rugby, archery, rafting, athletics, bodybuilding, motocross, mountain bike, most of them at a non competitive level, but everytime I approached a new discipline I rapidly ended up to be the most performant athlete.
+In 20 years I had the chance to try many different sports from swimming, to basketball, rugby, archery, rafting, athletics, bodybuilding, motocross, mountain bike, most of them at a non-competitive level, but everytime I approached a new discipline I rapidly ended up to be the most performant athlete.
 
 Along the years I realized to be a very competitive person and I developed a strong discipline and resilience in sports as in life.
 
