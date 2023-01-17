@@ -83,7 +83,11 @@ I started looking at the Assembly code, write C programs, learn how the compiler
 
 I build a collection of simple programs to practice what I was learning and ended up with an extensive codebase shared in my ["C programming"](https://github.com/davide-colombo/cprogramming) repository.
 
-With the beginning of the new year (2023) I start to consolidate and write down what I learned about life through my journey, thinking deeply about the World, humanity and what I can do for others.
+---
+
+### Plan for the Future
+
+With the beginning of the new year (2023) I started to consolidate and write down what I learned about life through my journey, thinking deeply about the World, humanity and what I can do for others.
 
 Because, in all honesty, the side effect of having done a deep dive into my self for roughly 20 years was the prioritization of my needs against others.
 
