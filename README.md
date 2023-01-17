@@ -11,9 +11,9 @@ It's called ["Hidden in plain sight"](https://github.com/davide-colombo/Hidden-i
 
 I can describe my journey as two parts.
 
-The first centered on sports. I learned a lot about food, improving performance, sleep, recovery, discipline, but most importantly I learned the limits and reactions of my body.
+**The first** centered on sports. I learned a lot about food, improving performance, sleep, recovery, discipline, but most importantly I learned the limits and reactions of my body.
 
-The second centered on the "mind". I learned to control my emotions, to resonate with other people, to listen to them. I become more aware of myself, my thoughts, my sensations. I learned to point the finger to myself instead of pointing it to others. I discover the forgotten doctrine of "deep thinking".
+**The second** centered on the "mind". I learned to control my emotions, to resonate with other people, to listen to them. I become more aware of myself, my thoughts, my sensations. I learned to point the finger to myself instead of pointing it to others. I discover the forgotten doctrine of "deep thinking".
 
 
 ## First part: the body
