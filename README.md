@@ -4,7 +4,7 @@ My journey has been going on for 25 years now, I changed many shapes, evolved ma
 
 I'm writing a collection of _thoughts about life_ with the hope to inspire people to look at the World from a different perspective.
 
-It's called ["Hidden in plain sight"](https://github.com/davide-colombo/Hidden-in-Plain-Sight).
+It's called ["Hidden in plain sight"](https://github.com/davide-colombo/Hidden-in-Plain-Sight/blob/master/README.md).
 
 
 ## About my Journey
