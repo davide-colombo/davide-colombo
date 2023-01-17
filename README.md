@@ -1,6 +1,10 @@
-My name is **Davide** and I'm writing a _journey about life_ called ["Hidden in plain sight"](https://github.com/davide-colombo/Hidden-in-Plain-Sight).
+My name is **Davide**, I'm a Bioengineer, I have been practicing sports for 20 years, I worked as a waiter, worked in the early days of a Startup, I have lost friends, and make mistakes.
 
-During the last 25 years I learned a lot about myself and others, and I think I have something to offer to significantly help other people along their journey.
+
+
+
+I'm writing a _journey about life_ called ["Hidden in plain sight"](https://github.com/davide-colombo/Hidden-in-Plain-Sight).
+
 
 
 ## About my Journey
