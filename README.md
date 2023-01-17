@@ -98,3 +98,5 @@ Because, in all honesty, the side effect of having done a deep dive into my self
 
 It's time to share with other people my experience, what I learned about the World, and hopefully help them and humanity thrive.
 
+My goal is to become a Software Engineer at Google. We'll see what happens.
+
