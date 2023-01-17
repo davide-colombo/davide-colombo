@@ -1,4 +1,6 @@
-My name is **Davide**, I'm a Bioengineer, I have been practicing sports for 20 years, I worked as a waiter, worked in the early days of a Startup, I have lost friends, and made various mistakes.
+My name is **Davide**, I'm a Bioengineer, I have been practicing sports for 20 years, I worked as a waiter, worked in the early days of a Startup.
+
+I have lost friends, and made various mistakes.
 
 My journey has been going on for 25 years now, I changed many shapes, evolved many times, and still evolving.
 
