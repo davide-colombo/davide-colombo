@@ -31,9 +31,9 @@ They were three years of hard times, long hours of lessons followed by hours of 
 
 I think that if I successfully achieved the Bachelor degree in 2019 fully on time together with a little part of colleagues, it was mainly due to the strong discipline and resilience developed through sports. Of course there were other factors such as the full support of my family.
 
-Aside University, on saturday night I worked as a waiter, not for economic purposes because I'm lucky to have a family that fully supports and believes in me.
+Aside University, I worked as a part-time waiter for a couple of years.
 
-The reason I decide to start working was to not weigh on the shoulders of my parents (or at least weigh less) and collect experience and for sure I did.
+I decide to start working to not weigh on the shoulders of my parents (_or at least weigh less_) and collect experience and for sure I did.
 
 Along with studies and evening work, I started hitting the gym four, five, six times a week consistently until early 2020 when the COVID-19 pandemic spread.
 
