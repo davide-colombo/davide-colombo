@@ -121,3 +121,9 @@ It's time to share with other people my experience, what I learned about the Wor
 My goal is to start a career as a Software Engineer at Google.
 
 I'm a Bioengineer, I love applying technology to solve challenging problems, to create innovative solutions to help people.
+
+I think that Google is one of the most amazing companies in todays World, made of amazing people, amazing engineers, that when put together come up to amazing solutions to solve challeging problems.
+
+I love the idea of being part of such reality and deliver value to the World and help humanity thrive.
+
+
