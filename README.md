@@ -60,15 +60,22 @@ I started by searching on YouTube material about the courses to better understan
 
 In the past 3 years I radically changed the way I view myself, other people, and the World we live in.
 
+---
+### Master degree in Bioengineering and Startup experience
+
 I successfully concluded my master degree in early 2022, while I was already working at ["Switch Academy"](https://switchacademy.com/), a startup which delivers all-in-one and customized career acceleration plans to help people boost their careers.
 
 I learned a lot during that experience, especially I learned more about clear communication, commitment, ownership, taking smart decision, prioritize time, organize work.
 
 It was a pleasure time and I'm thankful for having had that opportunity, especially because it open my mind about what I want to do in my life.
 
+---
+
+### Computer science
+
 During my years at the University I discover a strong passion and an innate affinity to programming.
 
-After the experience at Switch Academy I decided to become a Software Engineer.
+After the experience at _Switch Academy_ I decided to become a Software Engineer.
 
 I know that I was not ready so I started to practice and learn more, especially about the low-level details of a computer system. That was enlighting.
 
