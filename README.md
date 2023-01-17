@@ -31,19 +31,17 @@ They were three years of hard times, long hours of lessons followed by hours of 
 
 I think that if I successfully achieved the Bachelor degree in 2019 fully on time, it is mainly due to the strong discipline and resilience I developed through sports. Of course there were other factors such as the full support of my family.
 
-Aside University, on saturday night I worked as a waiter, not for economic purposes because I'm lucky to have (as stated above) a family that fully supports me and believes.
+Aside University, on saturday night I worked as a waiter, not for economic purposes because I'm lucky to have a family that fully supports and believes in me.
 
-The reason I decide to start working was to be a little more independent and collect experience and for sure I did.
+The reason I decide to start working was to not weigh on the shoulders of my parents (or at least weigh less) and collect experience and for sure I did.
 
-Along with studies and evening work, I started hitting to the gym four, five, six times a week consistently until early 2020 when the COVID-19 pandemic spread.
+Along with studies and evening work, I started hitting the gym four, five, six times a week consistently until early 2020 when the COVID-19 pandemic spread.
 
 I learned more about biology, about foods and nutrients, how to combine them, how to cook them, and especially about how my body react to them.
 
 I had the chance over the years to learn more about my body and find out my perfect daily routine after many trials and errors.
 
-But most importantly, those years were the key to test my mind under huge amount of stress and pressure.
-
-Unsurprisingly I learned how to cope with stressful situations.
+But most importantly, those years were the key to found my limits and I learned a lot about how to organize time and manage stressful situations.
 
 
 ## Second part: the mind
