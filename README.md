@@ -1,10 +1,10 @@
 My name is **Davide**, I'm a Bioengineer, I have been practicing sports for 20 years, I worked as a waiter, worked in the early days of a Startup, I have lost friends, and made various mistakes.
 
+My journey has been going on for 25 years now, I changed many shapes, evolved many times, and still evolving.
 
+I'm writing a collection of _thoughts about life_ with the hope to inspire people to look at the World from a different perspective.
 
-
-I'm writing a _journey about life_ called ["Hidden in plain sight"](https://github.com/davide-colombo/Hidden-in-Plain-Sight).
-
+It's called ["Hidden in plain sight"](https://github.com/davide-colombo/Hidden-in-Plain-Sight).
 
 
 ## About my Journey
