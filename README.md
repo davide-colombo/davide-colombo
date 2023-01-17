@@ -58,15 +58,7 @@ As long as I finished the lessons I was used to study and dedicate the remaining
 
 I started by searching on YouTube material about the courses to better understand the subjects and that quickly escalate to a huge expansions from psychology, to self-growth, marketing, neuro-biology, anatomy, foods and nutrients, workouts, habits, human skills, economy, politics, philosophy, ecology, supply chain, design, entrepreneurship.
 
-I wanted to learn as much as I can about the World because I think that _knowledge is power_ and you are not _truly free_ without having such knowledge.
-
-Because ultimately being free is the ability to make solid decision by yourself, isn't it? And knowledge is a prerequisite for that.
-
-And I think that in the last 4 years I covered an extensive knowledge about that.
-
-**Don't get me wrong**: I don't want to have the arrogance to say that I understand everything. 
-
-What I can say with a reasonable degree of certain is that I know more than the average person and I will not stop and never intended to.
+In the past 3 years I radically changed the way I view myself, other people, and the World we live in.
 
 I successfully concluded my master degree in early 2022, while I was already working at ["Switch Academy"](https://switchacademy.com/), a startup in my humble opinion brilliantly conducted by my friend Vincenzo Di Pietro, who asked me to join him along his journey.
 
@@ -74,13 +66,15 @@ I learned a lot during that experience, especially I learned more about clear co
 
 It was a pleasure time and I'm thankful for having had that opportunity, especially because it open my mind about what I want to do in my life.
 
-During my years at University I discover a strong passion and an innate affinity to programming.
+During my years at the University I discover a strong passion and an innate affinity to programming.
 
-After the experience at Switch Academy I decided to prepare to become a Software Engineer.
+After the experience at Switch Academy I decided to become a Software Engineer.
 
 I know that I was not ready so I started to practice and learn more, especially about the low-level details of a computer system. That was enlighting.
 
-I started looking at the Assembly code, write C programs, learn how the compiler works, and I rapidly ended up having a huge gallery of high-quality material on my phone's notes (I intend to share it!) and an extensive codebase in my ["C programming"](https://github.com/davide-colombo/cprogramming) repository.
+I started looking at the Assembly code, write C programs, learn how the compiler works, and I rapidly ended up having a huge gallery of high-quality material on my phone's notes.
+
+I build a collection of simple programs to practice what I was learning and ended up with an extensive codebase shared in my ["C programming"](https://github.com/davide-colombo/cprogramming) repository.
 
 With the beginning of the new year (2023) I start to consolidate and write down what I learned about life through my journey, thinking deeply about the World, humanity and what I can do for others.
 
