@@ -38,9 +38,11 @@ I decide to start working to not weigh on the shoulders of my parents (_or at le
 
 Along with studies and evening work, I started hitting the gym four, five, six times a week consistently until early 2020 when the COVID-19 pandemic spread.
 
-I learned more about biology, about foods and nutrients, how to combine them, how to cook them, and especially about how my body react to them.
+In three years I totally transformed my body.
 
-I had the chance over the years to learn more about my body and find out my perfect daily routine after many trials and errors.
+And to do that I learned more about biology, foods and nutrients, how to combine them, how to cook them, and especially about how my body react to them.
+
+I learned how to optimize sleep, how to optimize recovery, the importance of having a stable routine.
 
 But most importantly, those years were the key to found my limits and I learned a lot about how to organize time and manage stressful situations.
 
