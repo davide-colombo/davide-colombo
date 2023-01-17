@@ -60,7 +60,7 @@ I started by searching on YouTube material about the courses to better understan
 
 In the past 3 years I radically changed the way I view myself, other people, and the World we live in.
 
-I successfully concluded my master degree in early 2022, while I was already working at ["Switch Academy"](https://switchacademy.com/), a startup in my humble opinion brilliantly conducted by my friend Vincenzo Di Pietro, who asked me to join him along his journey.
+I successfully concluded my master degree in early 2022, while I was already working at ["Switch Academy"](https://switchacademy.com/), a startup which delivers all-in-one and customized career acceleration plans to help people boost their careers.
 
 I learned a lot during that experience, especially I learned more about clear communication, commitment, ownership, taking smart decision, prioritize time, organize work.
 
