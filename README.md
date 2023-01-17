@@ -92,11 +92,22 @@ I build a collection of simple programs to practice what I was learning and ende
 
 ### Plan for the Future
 
-With the beginning of the new year (2023) I started to consolidate and write down what I learned about life through my journey, thinking deeply about the World, humanity and what I can do for others.
+With the beginning of the new year (2023) I started to consolidate and write what I learned about life through my journey, thinking deeply about the World, humanity and how I shifted the way I view the World.
 
-Because, in all honesty, the side effect of having done a deep dive into my self for roughly 20 years was the prioritization of my needs against others.
+Because, in all honesty, the side effect of having done a deep dive into my self for roughly 20 years was the prioritization of my needs.
 
 It's time to share with other people my experience, what I learned about the World, and hopefully help them and humanity thrive.
 
-My goal is to become a Software Engineer at Google. We'll see what happens.
+---
+
+### Career
+
+My goal is to start a career as a Software Engineer at Google.
+
+I'm a Bioengineer, I love applying technology to solve challenging problems, to create innovative solutions to help people.
+
+
+
+
+
 
