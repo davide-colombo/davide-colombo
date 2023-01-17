@@ -78,9 +78,24 @@ It was a pleasure time and I'm thankful for having had that opportunity, especia
 
 ### Computer science
 
-During my years at the University I discover a strong passion and an innate affinity to programming.
+I love technology.
 
-After the experience at _Switch Academy_ I decided to become a Software Engineer.
+I grew up in a World that was gradually evolving under technology.
+
+Today most of the objects around us have a chip inside that is running software.
+
+I discover "_what is programming_" during the years at university and I had the chance to face some engineering problems.
+
+For example, I used Tensorflow library developed at Google to train a Neural Network on chest x-ray images of children to detect pneumonia.
+
+I took an optional course on "Information Theory and Cybersecurity". I was fascinated.
+
+I took a course on microprocessors.
+
+
+
+
+
 
 I know that I was not ready so I started to practice and learn more, especially about the low-level details of a computer system. That was enlighting.
 
@@ -105,11 +120,3 @@ It's time to share with other people my experience, what I learned about the Wor
 My goal is to start a career as a Software Engineer at Google.
 
 I'm a Bioengineer, I love applying technology to solve challenging problems, to create innovative solutions to help people.
-
-For example, I used Tensorflow library developed at Google to train a Neural Network on chest x-ray images of children to detect pneumonia.
-
-
-
-
-
-
