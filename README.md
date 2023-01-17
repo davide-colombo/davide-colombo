@@ -88,14 +88,11 @@ I discover "_what is programming_" during the years at university and I had the 
 
 For example, I used Tensorflow library developed at Google to train a Neural Network on chest x-ray images of children to detect pneumonia.
 
-I took an optional course on "Information Theory and Cybersecurity" that completely changes the way I was looking at technology.
+I took an _optional_ course on "Information Theory and Cybersecurity" that completely changes the way I was looking at technology.
 
-I took a course on microprocessors and that too was fascinating.
+I took a course on microprocessors and that too fascinates me.
 
-
-
-
-
+But still I was not satisfied with what I learned during the university courses.
 
 I know that I was not ready so I started to practice and learn more, especially about the low-level details of a computer system. That was enlighting.
 
