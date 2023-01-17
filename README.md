@@ -106,6 +106,8 @@ My goal is to start a career as a Software Engineer at Google.
 
 I'm a Bioengineer, I love applying technology to solve challenging problems, to create innovative solutions to help people.
 
+For example, I used Tensorflow library developed at Google to train a Neural Network on chest x-ray images of children to detect pneumonia.
+
 
 
 
