@@ -1,16 +1,22 @@
-## Hi there 👋
+```
+                  _,-.
+            _,---'  _/
+       _.--'   ,--''
+     .'    ,--'          ___
+    /   ,-'          _,-'   )
+   /  ,'         _.-'     ./
+  ( .'       _.-'       _/
+   \\    _.-'  ~~--._  /
+    \\_,'      .~-._  `(
+               /    `--.'.
+              (  ,--`   \  )
+               `'     .  \/
+                      |   |
+                      |   |
+                       \ /
+                        V
+```
 
-<!--
-**davide-colombo/davide-colombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD candidate in computational biology. I build bioinformatics pipelines and developer tools for mosquito genomics research — *Aedes albopictus*, endogenous viral elements, NGS data at population scale.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · Bash · [shuttle](https://github.com/davide-colombo/shuttle) · [nevelib](https://github.com/davide-colombo/nevelib)
